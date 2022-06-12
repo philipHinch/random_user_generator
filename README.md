@@ -1,3 +1,3 @@
-# vue_practice_1
+# Vue.js Practice
 
 First time learning Vue.js
